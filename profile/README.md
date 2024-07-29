@@ -27,45 +27,6 @@ GenzPN Company Limited is a leading provider of innovative proxy and network ser
 - **Trojan:** High-performance proxy designed to avoid detection.
 - **Shadowsocks:** Secure and efficient proxy solution for bypassing internet censorship.
 
-### VPN Solutions
-
-- **Personal VPN:** Secure your internet connection on any device.
-- **Business VPN:** Protect your company's data and ensure secure remote access.
-
-### Network Security
-
-- **DDoS Protection:** Safeguard your online presence from DDoS attacks.
-- **Firewall Solutions:** Advanced firewall configurations for enhanced security.
-
-## Why Choose Us?
-
-- **Reliability:** Our services are designed to be highly reliable and available 24/7.
-- **Security:** We prioritize the security and privacy of our clients.
-- **Performance:** Our network solutions are optimized for high performance.
-- **Support:** Dedicated customer support to assist you with any issues.
-
-## Getting Started
-
-### 1. Sign Up
-
-Visit our [website](https://genzpn.com) and create an account to get started with our services.
-
-### 2. Choose a Service
-
-Select the service that best fits your needs from our range of proxy and network solutions.
-
-### 3. Set Up
-
-Follow our comprehensive setup guides to configure and start using our services.
-
-### 4. Manage Your Services
-
-Use our user-friendly dashboard to manage and monitor your services.
-
-## Documentation
-
-Detailed documentation and setup guides for our services can be found in the [Docs](https://genzpn.com/docs) section on our website.
-
 ## Support
 
 If you encounter any issues or have any questions, our support team is here to help. Reach out to us via:
@@ -73,14 +34,6 @@ If you encounter any issues or have any questions, our support team is here to h
 - **Email:** support@genzpn.com
 - **Telegram:** [@genzpn_support](https://t.me/genzpn_support)
 - **Live Chat:** Available on our website
-
-## Contributing
-
-We welcome contributions from the community! If you would like to contribute to our projects, please fork the repository and submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Connect with Us
 
